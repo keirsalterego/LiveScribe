@@ -7,3 +7,5 @@ numpy
 scipy
 jiwer
 librosa
+pandas
+scikit-learn

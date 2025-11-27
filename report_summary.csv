@@ -1,2 +1,0 @@
-sample_rate,duration_sec,zcr_mean,rms_mean,pitch_mean,pitch_median,avg_utterance_length_words,avg_per_utt_wer
-16000,2.0,0.06066313244047619,0.567439615726471,439.9946594238281,440.0600891113281,10.475,0.19029064308358656
