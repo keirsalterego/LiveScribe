@@ -1,0 +1,9 @@
+torch
+torchaudio
+transformers
+sounddevice
+matplotlib
+numpy
+scipy
+jiwer
+librosa
